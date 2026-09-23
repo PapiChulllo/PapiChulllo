@@ -23,18 +23,9 @@ First-person psychological horror game developed in Unity. I worked on gameplay 
 **Emberfall Games**
 Developed reusable Unity gameplay tools that allow designers to configure triggered object behaviors directly through the Unity Inspector.
 
-**Silvermoon Pictures**
-Worked with Unreal Engine 5, C++, and Blueprints on gameplay systems, character animation, rigging, interactive levels, cinematics, and gameplay integration.
-
-**ARTRACTIVE Studio**
-Developed interactive VR experiences in Unity and C#, including aircraft-engine simulations and AI-driven virtual characters.
-
-### 🔧 Currently
-
-Building gameplay systems, tools, and projects while pursuing **Gameplay Programmer / Game Engineer opportunities in Denmark**.
 
 ### 📫 Connect
 
-* LinkedIn
-* Portfolio
-* Email
+- 💼 [LinkedIn](https://www.linkedin.com/in/melih-burak-asci-820996204/)
+- 🌐 [Portfolio](https://flashbitestudios.com)
+- 📧 [Email Me](mailto:melihstudios@gmail.com)
