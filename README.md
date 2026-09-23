@@ -17,9 +17,13 @@ I'm a **Gameplay Programmer** based in Copenhagen, Denmark, with experience deve
 
 ### 🕹️ Selected Work
 
-**Veil of Sight**
+### 🎮 [Veil of Sight](https://store.steampowered.com/app/3850370/Veil_of_Sight/)
+
+**Unity • C# • FMOD**
+
 First-person psychological horror game developed in Unity. I worked on gameplay programming, player interaction systems, level implementation, and FMOD audio integration.
 
+[View on Steam](https://store.steampowered.com/app/3850370/Veil_of_Sight/)
 **Emberfall Games**
 Developed reusable Unity gameplay tools that allow designers to configure triggered object behaviors directly through the Unity Inspector.
 
