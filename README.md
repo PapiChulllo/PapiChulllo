@@ -24,8 +24,14 @@ I'm a **Gameplay Programmer** based in Copenhagen, Denmark, with experience deve
 First-person psychological horror game developed in Unity. I worked on gameplay programming, player interaction systems, level implementation, and FMOD audio integration.
 
 
-**Emberfall Games**
+### 🛠️ Emberfall Games
+
+**Unity • C# • Gameplay Tools**
+
 Developed reusable Unity gameplay tools that allow designers to configure triggered object behaviors directly through the Unity Inspector.
+
+The system supports configurable interactions such as movement, object visibility, shaking, and other gameplay responses without requiring custom logic for every object.
+
 
 
 ### 📫 Connect
