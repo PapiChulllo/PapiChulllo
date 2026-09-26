@@ -1,8 +1,8 @@
 # Melih Burak Asci
 
-**Gameplay systems and tools programmer: Unity & C#, Unreal Engine 5 & C++, networking fundamentals.** Based in Copenhagen, Denmark.
+**Gameplay systems and tools programmer: Unity & C#, Unreal Engine 5 & C++, networking fundamentals.** Based in Toronto, Canada.
 
-I build gameplay systems, networked prototypes, and production-facing tools — from server-authoritative game state to procedural generation experiments.
+I build gameplay systems, networked prototypes, and production-facing tools  from server-authoritative game state to procedural generation experiments.
 
 ## Upcoming
 
