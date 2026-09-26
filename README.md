@@ -1,38 +1,28 @@
 # Melih Burak Asci
 
-Gameplay systems and tools programmer based in Copenhagen, Denmark, with experience in Unity/C# and Unreal Engine 5/C++.
+**Gameplay systems and tools programmer: Unity & C#, Unreal Engine 5 & C++, networking fundamentals.** Based in Copenhagen, Denmark.
 
-## Featured Engineering
+I build gameplay systems, networked prototypes, and production-facing tools — from server-authoritative game state to procedural generation experiments.
 
-### Server-Authoritative Networked Tic-Tac-Toe
+## Upcoming
 
-A Unity/C# client-server prototype in which the server validates turn order and occupied cells, resolves wins and draws, and broadcasts the shared board state.
+| Game | Where | What it is |
+|---|---|---|
+| **[Veil of Sight](https://store.steampowered.com/app/3850370/Veil_of_Sight/)** | [Steam](https://store.steampowered.com/app/3850370/Veil_of_Sight/) | First-person psychological horror. Contributed gameplay programming, player interactions, level implementation, and FMOD audio integration (Unity / C#). |
 
-[Server repository](https://github.com/PapiChulllo/realtime-tictactoe-server) · [Client repository](https://github.com/PapiChulllo/realtime-tictactoe-client)
+## Featured projects
 
-### Real-Time Movement Synchronization
+| Project | What it is | Tech |
+|---|---|---|
+| **[Networked Tic-Tac-Toe](https://github.com/PapiChulllo/realtime-tictactoe-server)** | Two-player Unity Transport prototype: the server validates turn order and occupied cells, resolves wins and draws, and broadcasts the shared board. [Client](https://github.com/PapiChulllo/realtime-tictactoe-client) | Unity 2022.3, C#, Unity Transport |
+| **[Real-Time Movement Sync](https://github.com/PapiChulllo/realtime-movement-server)** | Client-server movement prototype: players send positions to a server that relays synchronized state to connected clients. [Client](https://github.com/PapiChulllo/realtime-movement-client) | Unity 2022.3, C#, Unity Transport |
+| **[Procedural Generation](https://github.com/PapiChulllo/unity-procedural-fps-maze-terrain)** | Code-focused educational experiment: randomized tile-based maze assembly and Perlin-noise-driven 3D voxel terrain. | Unity 6, C#, URP |
 
-A Unity/C# networking prototype that sends player movement through a server and synchronizes the resulting positions across connected clients.
+## Skills
 
-[Server repository](https://github.com/PapiChulllo/realtime-movement-server) · [Client repository](https://github.com/PapiChulllo/realtime-movement-client)
-
-### Procedural Generation Experiments
-
-A code-focused educational Unity experiment exploring randomized tile-based maze assembly and Perlin-noise-driven 3D terrain generation.
-
-[Repository](https://github.com/PapiChulllo/unity-procedural-fps-maze-terrain)
-
-## Upcoming Work
-
-### [Veil of Sight](https://store.steampowered.com/app/3850370/Veil_of_Sight/)
-
-Contributed gameplay programming, player interactions, level implementation, and FMOD integration to this upcoming first-person psychological horror game.
-
-## Capabilities
-
-- **Gameplay:** Gameplay systems and tools, player interactions, procedural generation, VR
-- **Networking fundamentals:** Client-server architecture, server-authoritative state, movement synchronization
-- **Engines and languages:** Unity/C#, Unreal Engine 5/C++/Blueprints
+- **Engines and languages:** Unity (C#), Unreal Engine 5 (C++ / Blueprints)
+- **Gameplay and systems:** gameplay systems and tools, player interactions, procedural generation, VR
+- **Networking fundamentals:** client-server architecture, server-authoritative state, movement synchronization, Unity Transport
 - **Audio and version control:** FMOD, Git, Perforce
 
 ## Connect
