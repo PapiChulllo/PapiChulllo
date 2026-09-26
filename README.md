@@ -1,41 +1,42 @@
-# Hi, I'm Melih 👋
+# Melih Burak Asci
 
-I'm a **Gameplay Programmer** based in Copenhagen, Denmark, with experience developing gameplay systems, tools, VR applications, AI-driven interactions, and interactive experiences.
+Gameplay systems and tools programmer based in Copenhagen, Denmark, with experience in Unity/C# and Unreal Engine 5/C++.
 
-### 🎮 What I work with
+## Featured Engineering
 
-* **Unity / C#**
-* **Unreal Engine 5 / C++ / Blueprints**
-* Gameplay Systems
-* Game Tools & Editor Tooling
-* AI Systems
-* VR Development
-* Player Interaction Systems
-* Level Implementation
-* FMOD
-* Git / Perforce
+### Server-Authoritative Networked Tic-Tac-Toe
 
-### 🕹️ Selected Work
+A Unity/C# client-server prototype in which the server validates turns and moves, resolves wins and draws, and broadcasts the shared board state.
 
-### 🎮 [Veil of Sight](https://store.steampowered.com/app/3850370/Veil_of_Sight/)
+[Server repository](https://github.com/PapiChulllo/realtime-tictactoe-server) · [Client repository](https://github.com/PapiChulllo/realtime-tictactoe-client)
 
-**Unity • C# • FMOD**
+### Real-Time Movement Synchronization
 
-First-person psychological horror game developed in Unity. I worked on gameplay programming, player interaction systems, level implementation, and FMOD audio integration.
+A Unity/C# networking prototype that sends player movement through a server and synchronizes the resulting positions across connected clients.
 
+[Server repository](https://github.com/PapiChulllo/realtime-movement-server) · [Client repository](https://github.com/PapiChulllo/realtime-movement-client)
 
-### 🛠️ Emberfall Games
+### Procedural Generation Experiments
 
-**Unity • C# • Gameplay Tools**
+A code-focused educational Unity experiment exploring randomized tile-based maze assembly and Perlin-noise-driven 3D terrain generation.
 
-Developed reusable Unity gameplay tools that allow designers to configure triggered object behaviors directly through the Unity Inspector.
+[Repository](https://github.com/PapiChulllo/unity-procedural-fps-maze-terrain)
 
-The system supports configurable interactions such as movement, object visibility, shaking, and other gameplay responses without requiring custom logic for every object.
+## Shipped Work
 
+### [Veil of Sight](https://store.steampowered.com/app/3850370/Veil_of_Sight/)
 
+Contributed gameplay programming, player interactions, level implementation, and FMOD integration to this shipped first-person psychological horror game.
 
-### 📫 Connect
+## Capabilities
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/melih-burak-asci-820996204/)
-- 🌐 [Portfolio](https://flashbitestudios.com)
-- 📧 [Email Me](mailto:melihstudios@gmail.com)
+- **Gameplay:** Gameplay systems and tools, player interactions, procedural generation, VR
+- **Networking fundamentals:** Client-server architecture, server-authoritative state, movement synchronization
+- **Engines and languages:** Unity/C#, Unreal Engine 5/C++/Blueprints
+- **Audio and version control:** FMOD, Git, Perforce
+
+## Connect
+
+- [Portfolio](https://flashbitestudios.com)
+- [LinkedIn](https://www.linkedin.com/in/melih-burak-asci-820996204/)
+- [Email](mailto:melihstudios@gmail.com)
