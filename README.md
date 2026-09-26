@@ -22,11 +22,11 @@ A code-focused educational Unity experiment exploring randomized tile-based maze
 
 [Repository](https://github.com/PapiChulllo/unity-procedural-fps-maze-terrain)
 
-## Shipped Work
+## Upcoming Work
 
 ### [Veil of Sight](https://store.steampowered.com/app/3850370/Veil_of_Sight/)
 
-Contributed gameplay programming, player interactions, level implementation, and FMOD integration to this shipped first-person psychological horror game.
+Contributed gameplay programming, player interactions, level implementation, and FMOD integration to this upcoming first-person psychological horror game.
 
 ## Capabilities
 
