@@ -6,7 +6,7 @@ Gameplay systems and tools programmer based in Copenhagen, Denmark, with experie
 
 ### Server-Authoritative Networked Tic-Tac-Toe
 
-A Unity/C# client-server prototype in which the server validates turns and moves, resolves wins and draws, and broadcasts the shared board state.
+A Unity/C# client-server prototype in which the server validates turn order and occupied cells, resolves wins and draws, and broadcasts the shared board state.
 
 [Server repository](https://github.com/PapiChulllo/realtime-tictactoe-server) · [Client repository](https://github.com/PapiChulllo/realtime-tictactoe-client)
 
